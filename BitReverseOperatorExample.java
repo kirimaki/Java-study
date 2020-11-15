@@ -10,7 +10,7 @@ public class BitReverseOperatorExample {
 		int v3 = ~v1 + 1;
 		System.out.println(toBinaryString(v1) + "(십진수 : " + v1 + ")" );
 		System.out.println(toBinaryString(v2) + "(십진수 : " + v2 + ")" );
-		System.out.println(toBinaryString(v3) + "(십진수 : " + v3 + ")" 8);
+		System.out.println(toBinaryString(v3) + "(십진수 : " + v3 + ")" );
 	}
 
 	public static String toBinaryString(int value) {
